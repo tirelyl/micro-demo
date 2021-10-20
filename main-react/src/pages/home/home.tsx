@@ -6,7 +6,7 @@ function Home() {
     <div className="App">
       <nav>
         <a href="/">home</a>
-        <a href="/app1">应用1</a>
+        <a href="/angular">angular</a>
         <a href="/app2">应用2</a>
       </nav>
     </div>

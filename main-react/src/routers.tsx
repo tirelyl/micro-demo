@@ -9,7 +9,7 @@ const Routes = () => {
     <BrowserRouter>
       <Switch>
         {/* // 👇👇 非严格匹配，/my-page/* 都将匹配到 MyPage 页面 */}
-        <Route path="/app1">
+        <Route path="/angular">
           <App1 />
         </Route>
         <Route path="/app2">
